@@ -91,16 +91,16 @@ Ou n'importe quel système de gestion de sources
 
 #### Gold Sponsors
 
-<img src="../assets/images/sponsors/samagata.png" width="150"/>
+<img src="../../assets/images/sponsors/samagata.png" width="150"/>
 
 #### Silver Sponsors
 
-<img src="../assets/images/sponsors/commit-company.png" width="70"/>
+<img src="../../assets/images/sponsors/commit-company.png" width="70"/>
 
 #### Bronze Sponsors
 
 <a href="https://zuplo.link/bruno">
-    <img src="../assets/images/sponsors/zuplo.png" width="120"/>
+    <img src="../../assets/images/sponsors/zuplo.png" width="120"/>
 </a>
 
 ### Liens importants 📌
