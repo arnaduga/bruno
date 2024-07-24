@@ -43,7 +43,7 @@ Bruno ne fonctionne qu'en mode déconnecté. Il n'y a pas d'abonnement ou de syn
 ### Golden Edition ✨
 
 La majorité de nos fonctionnalités sont gratuites et libres.
-Nous nous efforçons de trouver un équilibre harmonieux entre [les principes des logiciels libres et durabilité](https://github.com/usebruno/bruno/discussions/269)
+Nous nous efforçons de trouver un équilibre harmonieux entre [les principes des logiciels libres et pérennité](https://github.com/usebruno/bruno/discussions/269)
 
 Vous pouvez achter la [Golden Edition](https://www.usebruno.com/pricing) pour un coût de **$19**, une fois (pas de souscription)! <br/>
 
@@ -91,16 +91,16 @@ Ou n'importe quel système de gestion de sources
 
 #### Gold Sponsors
 
-<img src="assets/images/sponsors/samagata.png" width="150"/>
+<img src="../assets/images/sponsors/samagata.png" width="150"/>
 
 #### Silver Sponsors
 
-<img src="assets/images/sponsors/commit-company.png" width="70"/>
+<img src="../assets/images/sponsors/commit-company.png" width="70"/>
 
 #### Bronze Sponsors
 
 <a href="https://zuplo.link/bruno">
-    <img src="assets/images/sponsors/zuplo.png" width="120"/>
+    <img src="../assets/images/sponsors/zuplo.png" width="120"/>
 </a>
 
 ### Liens importants 📌
