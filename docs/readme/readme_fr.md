@@ -40,6 +40,13 @@ Bruno ne fonctionne qu'en mode déconnecté. Il n'y a pas d'abonnement ou de syn
 
 ![bruno](/assets/images/landing-2.png) <br /><br />
 
+### Golden Edition ✨
+
+La majorité de nos fonctionnalités sont gratuites et libres.
+Nous nous efforçons de trouver un équilibre harmonieux entre [les principes des logiciels libres et durabilité](https://github.com/usebruno/bruno/discussions/269)
+
+Vous pouvez achter la [Golden Edition](https://www.usebruno.com/pricing) pour un coût de **$19**, une fois (pas de souscription)! <br/>
+
 ### Installation
 
 Bruno est disponible au téléchargement [sur notre site web](https://www.usebruno.com/downloads), pour Mac, Windows et Linux.
@@ -80,11 +87,28 @@ Ou n'importe quel système de gestion de sources
 
 ![bruno](/assets/images/version-control.png) <br /><br />
 
+### Sponsors
+
+#### Gold Sponsors
+
+<img src="assets/images/sponsors/samagata.png" width="150"/>
+
+#### Silver Sponsors
+
+<img src="assets/images/sponsors/commit-company.png" width="70"/>
+
+#### Bronze Sponsors
+
+<a href="https://zuplo.link/bruno">
+    <img src="assets/images/sponsors/zuplo.png" width="120"/>
+</a>
+
 ### Liens importants 📌
 
 - [Notre vision à long terme (en anglais)](https://github.com/usebruno/bruno/discussions/269)
 - [Roadmap](https://github.com/usebruno/bruno/discussions/384)
 - [Documentation](https://docs.usebruno.com)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/bruno)
 - [Site web](https://www.usebruno.com)
 - [Prix](https://www.usebruno.com/pricing)
 - [Téléchargement](https://www.usebruno.com/downloads)
@@ -108,23 +132,9 @@ Si Bruno vous a aidé dans votre travail, au sein de votre équipe, merci de pen
 
 Veuillez regarder [ici](../publishing/publishing_fr.md) pour plus d'information.
 
-### Contribuer 👩‍💻🧑‍💻
-
-Je suis heureux de voir que vous cherchez à améliorer Bruno. Merci de consulter le [guide de contribution](../contributing/contributing_fr.md)
-
-Même si vous n'êtes pas en mesure de contribuer directement via du code, n'hésitez pas à consigner les bogues et les demandes de nouvelles fonctionnalités pour résoudre vos cas d'usage !
-
-### Auteurs
-
-<div align="center">
-    <a href="https://github.com/usebruno/bruno/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=usebruno/bruno" />
-    </a>
-</div>
-
 ### Restons en contact 🌐
 
-[Twitter](https://twitter.com/use_bruno) <br />
+[𝕏 (Twitter)](https://twitter.com/use_bruno) <br />
 [Website](https://www.usebruno.com) <br />
 [Discord](https://discord.com/invite/KgcZUncpjq) <br />
 [LinkedIn](https://www.linkedin.com/company/usebruno)
@@ -139,6 +149,22 @@ Même si vous n'êtes pas en mesure de contribuer directement via du code, n'hé
 
 Le logo est issu de [OpenMoji](https://openmoji.org/library/emoji-1F436/).
 Licence : CC [BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+### Contribuer 👩‍💻🧑‍💻
+
+Je suis heureux de voir que vous cherchez à améliorer Bruno. Merci de consulter le [guide de contribution](../contributing/contributing_fr.md)
+
+Même si vous n'êtes pas en mesure de contribuer directement via du code, n'hésitez pas à consigner les bogues et les demandes de nouvelles fonctionnalités pour résoudre vos cas d'usage !
+
+### Auteurs
+
+<div align="center">
+    <a href="https://github.com/usebruno/bruno/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=usebruno/bruno" />
+    </a>
+</div>
+
 
 ### Licence 📄
 
